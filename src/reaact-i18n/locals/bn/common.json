@@ -1,0 +1,22 @@
+{
+  "navbar": {
+   "home": "হোম",
+    "shop": "শপ",
+    "languages": "ভাষা",
+    "joinUs": "যোগ দিন",
+    "dashboard": "ড্যাশবোর্ড"
+  },
+  "buttons": {
+    "addToCart": "কার্টে যোগ করুন",
+    "checkout": "চেকআউট",
+    "save": "সংরক্ষণ",
+    "cancel": "বাতিল"
+  },
+  "status": {
+    "pending": "অপেক্ষমাণ",
+    "paid": "পরিশোধিত",
+    "delivered": "অনুমোদিত",
+     "requested":"অনুরোধ করেছেন"
+  }
+    
+}

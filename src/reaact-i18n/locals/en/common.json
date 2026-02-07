@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "home": "Home",
+    "shop": "Shop",
+    "languages": "Languages",
+    "joinUs": "Join Us",
+    "dashboard":"dashboard"
+  },
+  "buttons": {
+    "addToCart": "Add to Cart",
+    "checkout": "Checkout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "register":"Register",
+    "login":"Login"
+  },
+  "status": {
+    "pending": "Pending",
+    "paid": "Paid",
+    "delivered": "Approved",
+    "requested":"Requested"
+  }
+
+}

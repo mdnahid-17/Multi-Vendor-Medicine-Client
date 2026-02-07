@@ -1,0 +1,76 @@
+{"whyChooseUs": {
+    "title": "Why Choose Us",
+    "subtitle": "Trusted for quality, affordability, and safety — we deliver genuine products, exceptional service, and secure shopping every time.",
+
+    "features": {
+      "lowestPrice": {
+        "title": "Lowest Price Guarantee",
+        "description": "Shop confidently with our Lowest Price Guarantee — never overpay again."
+      },
+      "securePayment": {
+        "title": "100% Secure Transactions",
+        "description": "Get the best deals every time — we guarantee the lowest prices on all products."
+      },
+      "customerService": {
+        "title": "Exceptional Customer Service",
+        "description": "Our support team is here to assist you anytime with fast, friendly, and reliable help."
+      },
+      "certifiedPharmacy": {
+        "title": "Certified International Pharmacies",
+        "description": "All medicines are verified and approved through PharmacyChecker for quality and safety."
+      }
+    }
+  },
+
+  "categories": {
+    "title": "Shop By Categories",
+    "subtitle": "Find all your health and wellness needs — from medicines and baby care to vitamins, skin care, and first-aid essentials — in one place.",
+    "item": {
+      "category": "Category",
+      "seeDetails": "See Details"
+    }
+  },
+
+  "discount": {
+    "title": "Discount Products",
+    "subtitle": "Save more with special discounts on top-quality medicines.",
+    "hotDeal": {
+      "title": "Hot Deals Up To 45% Off",
+      "subtitle": "Hurry up! Offer ends soon"
+    },
+    "product": {
+      "addToCart": "Add to Cart",
+      "off": "OFF"
+    }
+  },
+
+  "footer": {
+    "description": "Your trusted online pharmacy. We connect multiple vendors to provide authentic medicines at your doorstep.",
+
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "shop": "Shop",
+      "vendors": "Vendors",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+
+    "support": {
+      "title": "Support",
+      "faq": "FAQ",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "shipping": "Shipping & Returns"
+    },
+
+    "newsletter": {
+      "title": "Newsletter",
+      "subtitle": "Subscribe to receive updates, offers & latest medicines",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    },
+
+    "copyright": "© 2026 MediBazaar. All rights reserved."
+  }
+}

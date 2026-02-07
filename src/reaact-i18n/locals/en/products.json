@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "696289db73e7db4543231c89",
+    "category": { "en": "tablet", "bn": "ট্যাবলেট" },
+    "image": "https://i.ibb.co.com/gZXFYLGc/paracetamol-tablets-500-mg.jpg",
+    "company": { "en": "MediCare Ltd.", "bn": "মেডিকেয়ার লিমিটেড" },
+    "price_per_unit": 5,
+    "discount": 6,
+    "description": { "en": "Effective pain reliever and fever reducer commonly used for headaches …", "bn": "সাধারণ মাথাব্যথা এবং জ্বর কমানোর জন্য ব্যবহৃত কার্যকর ব্যথানাশক ও জ্বর কমানোর ঔষধ …" },
+    "itemName": { "en": "Paracetamol 500mg", "bn": "প্যারাসিটামল ৫০০মিগ্রা" }
+  },
+  {
+    "_id": "696289db73e7db4543231c90",
+    "category": { "en": "injection", "bn": "ইনজেকশন" },
+    "image": "https://i.ibb.co.com/Mk8cXc35/Pain-Away-Injection.jpg",
+    "company": { "en": "ReliefMed", "bn": "রিলিফমেড" },
+    "price_per_unit": 180,
+    "discount": 10,
+    "description": { "en": "Injection used to relieve severe muscle or joint pain quickly and effectively …", "bn": "গুরুতর পেশী বা জয়েন্টের ব্যথা দ্রুত এবং কার্যকরভাবে কমানোর জন্য ব্যবহৃত ইনজেকশন …" },
+    "itemName": { "en": "PainAway Injection", "bn": "পেইনঅ্যাওয়ে ইনজেকশন" }
+  },
+  {
+    "_id": "696289db73e7db4543231c8a",
+    "category": { "en": "syrup", "bn": "সিরাপ" },
+    "image": "https://i.ibb.co.com/twHbCqBC/Cough-Shield-Syrup.jpg",
+    "company": { "en": "PharmaWell", "bn": "ফার্মা ওয়েল" },
+    "price_per_unit": 60,
+    "discount": 10,
+    "description": { "en": "Soothing cough syrup that provides relief from throat irritation and discomfort …", "bn": "গলার জ্বালা ও অস্বস্তি কমানোর জন্য শান্তিদায়ক কফ সিরাপ …" },
+    "itemName": { "en": "CoughShield Syrup", "bn": "কফশিল্ড সিরাপ" }
+  },
+  {
+    "_id": "696289db73e7db4543231c91",
+    "category": { "en": "ointment", "bn": "মলম" },
+    "image": "https://i.ibb.co.com/ointment.jpg",
+    "company": { "en": "HealFast", "bn": "হিলফাস্ট" },
+    "price_per_unit": 120,
+    "discount": 5,
+    "description": { "en": "Ointment for skin irritation and burns.", "bn": "চামড়ার জ্বালা ও পোড়ার জন্য মলম।" },
+    "itemName": { "en": "SkinHeal Ointment", "bn": "স্কিনহিল মলম" }
+  },
+  {
+    "_id": "696289db73e7db4543231c92",
+    "category": { "en": "capsule", "bn": "ক্যাপসুল" },
+    "image": "https://i.ibb.co.com/capsule.jpg",
+    "company": { "en": "NutriPharma", "bn": "নিউট্রিফার্মা" },
+    "price_per_unit": 35,
+    "discount": 8,
+    "description": { "en": "Vitamin capsule for daily health support.", "bn": "দৈনন্দিন স্বাস্থ্যের জন্য ভিটামিন ক্যাপসুল।" },
+    "itemName": { "en": "Vitamin C Capsule", "bn": "ভিটামিন সি ক্যাপসুল" }
+  },
+  {
+    "_id": "696289db73e7db4543231c93",
+    "category": { "en": "syrup", "bn": "সিরাপ" },
+    "image": "https://i.ibb.co.com/cough-syrup.jpg",
+    "company": { "en": "PharmaCare", "bn": "ফার্মাকেয়ার" },
+    "price_per_unit": 55,
+    "discount": 12,
+    "description": { "en": "Syrup for cold and throat relief.", "bn": "ঠান্ডা ও গলার জন্য সিরাপ।" },
+    "itemName": { "en": "ColdRelief Syrup", "bn": "কোল্ডরিলিফ সিরাপ" }
+  },
+  {
+    "_id": "696289db73e7db4543231c94",
+    "category": { "en": "tablet", "bn": "ট্যাবলেট" },
+    "image": "https://i.ibb.co.com/painkiller.jpg",
+    "company": { "en": "PainFree", "bn": "পেইনফ্রি" },
+    "price_per_unit": 15,
+    "discount": 7,
+    "description": { "en": "Tablet for mild to moderate pain relief.", "bn": "মৃদু থেকে মধ্যম মাত্রার ব্যথা কমানোর জন্য ট্যাবলেট।" },
+    "itemName": { "en": "PainAway Tablet", "bn": "পেইনঅ্যাওয়ে ট্যাবলেট" }
+  },
+  {
+    "_id": "696289db73e7db4543231c95",
+    "category": { "en": "injection", "bn": "ইনজেকশন" },
+    "image": "https://i.ibb.co.com/vitamin-injection.jpg",
+    "company": { "en": "HealthBoost", "bn": "হেলথবুস্ট" },
+    "price_per_unit": 200,
+    "discount": 5,
+    "description": { "en": "Vitamin injection for quick nutrient boost.", "bn": "দ্রুত পুষ্টি বৃদ্ধির জন্য ভিটামিন ইনজেকশন।" },
+    "itemName": { "en": "Vitamin B12 Injection", "bn": "ভিটামিন বি১২ ইনজেকশন" }
+  },
+  {
+    "_id": "696289db73e7db4543231c96",
+    "category": { "en": "ointment", "bn": "মলম" },
+    "image": "https://i.ibb.co.com/antiseptic-ointment.jpg",
+    "company": { "en": "SafeSkin", "bn": "সেফস্কিন" },
+    "price_per_unit": 90,
+    "discount": 6,
+    "description": { "en": "Antiseptic ointment for cuts and wounds.", "bn": "কাটছাঁট এবং ক্ষতের জন্য অ্যান্টিসেপ্টিক মলম।" },
+    "itemName": { "en": "HealQuick Ointment", "bn": "হিলকুইক মলম" }
+  },
+  {
+    "_id": "696289db73e7db4543231c97",
+    "category": { "en": "capsule", "bn": "ক্যাপসুল" },
+    "image": "https://i.ibb.co.com/antibiotic-capsule.jpg",
+    "company": { "en": "MedPlus", "bn": "মেডপ্লাস" },
+    "price_per_unit": 50,
+    "discount": 10,
+    "description": { "en": "Antibiotic capsule to fight infection.", "bn": "সংক্রমণ প্রতিরোধ করার জন্য অ্যান্টিবায়োটিক ক্যাপসুল।" },
+    "itemName": { "en": "Infecto Capsule", "bn": "ইনফেকটো ক্যাপসুল" }
+  },
+  {
+    "_id": "696289db73e7db4543231c98",
+    "category": { "en": "syrup", "bn": "সিরাপ" },
+    "image": "https://i.ibb.co.com/fever-syrup.jpg",
+    "company": { "en": "FeverStop", "bn": "ফিভারস্টপ" },
+    "price_per_unit": 70,
+    "discount": 15,
+    "description": { "en": "Syrup to reduce fever and body ache.", "bn": "জ্বর এবং শরীরের ব্যথা কমানোর জন্য সিরাপ।" },
+    "itemName": { "en": "FeverCure Syrup", "bn": "ফিভারকিউর সিরাপ" }
+  },
+  {
+    "_id": "696289db73e7db4543231c99",
+    "category": { "en": "tablet", "bn": "ট্যাবলেট" },
+    "image": "https://i.ibb.co.com/calcium-tablet.jpg",
+    "company": { "en": "BoneCare", "bn": "বোনকেয়ার" },
+    "price_per_unit": 40,
+    "discount": 5,
+    "description": { "en": "Calcium tablet for bone health.", "bn": "হাড়ের স্বাস্থ্যের জন্য ক্যালসিয়াম ট্যাবলেট।" },
+    "itemName": { "en": "CalciStrong Tablet", "bn": "ক্যালসিস্ট্রং ট্যাবলেট" }
+  },
+  {
+    "_id": "696289db73e7db4543231c9a",
+    "category": { "en": "injection", "bn": "ইনজেকশন" },
+    "image": "https://i.ibb.co.com/pain-relief-injection.jpg",
+    "company": { "en": "ReliefMax", "bn": "রিলিফম্যাক্স" },
+    "price_per_unit": 150,
+    "discount": 7,
+    "description": { "en": "Injection for fast pain relief.", "bn": "দ্রুত ব্যথা কমানোর জন্য ইনজেকশন।" },
+    "itemName": { "en": "PainRelief Injection", "bn": "পেইনরিলিফ ইনজেকশন" }
+  },
+  {
+    "_id": "696289db73e7db4543231c9b",
+    "category": { "en": "capsule", "bn": "ক্যাপসুল" },
+    "image": "https://i.ibb.co.com/omega-capsule.jpg",
+    "company": { "en": "NutriOmega", "bn": "নিউট্রিওমেগা" },
+    "price_per_unit": 60,
+    "discount": 10,
+    "description": { "en": "Omega-3 capsule for heart health.", "bn": "হৃদয় স্বাস্থ্যের জন্য ওমেগা-৩ ক্যাপসুল।" },
+    "itemName": { "en": "OmegaHeart Capsule", "bn": "ওমেগাহার্ট ক্যাপসুল" }
+  },
+  {
+    "_id": "696289db73e7db4543231c9c",
+    "category": { "en": "ointment", "bn": "মলম" },
+    "image": "https://i.ibb.co.com/muscle-relief-ointment.jpg",
+    "company": { "en": "MuscleCare", "bn": "মাসলকেয়ার" },
+    "price_per_unit": 110,
+    "discount": 5,
+    "description": { "en": "Ointment for muscle pain and stiffness.", "bn": "পেশীর ব্যথা এবং শক্ততার জন্য মলম।" },
+    "itemName": { "en": "MuscleRelax Ointment", "bn": "মাসলরিল্যাক্স মলম" }
+  },
+  {
+    "_id": "696289db73e7db4543231c9d",
+    "category": { "en": "syrup", "bn": "সিরাপ" },
+    "image": "https://i.ibb.co.com/digestive-syrup.jpg",
+    "company": { "en": "DigestWell", "bn": "ডাইজেস্টওয়েল" },
+    "price_per_unit": 65,
+    "discount": 12,
+    "description": { "en": "Syrup for digestive health.", "bn": "পাচনতন্ত্রের স্বাস্থ্যের জন্য সিরাপ।" },
+    "itemName": { "en": "DigestPlus Syrup", "bn": "ডাইজেস্টপ্লাস সিরাপ" }
+  }
+]

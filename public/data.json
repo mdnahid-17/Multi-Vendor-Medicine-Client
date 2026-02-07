@@ -1,0 +1,122 @@
+[
+  {
+   
+    "name": "Paracetamol 500mg",
+    "category": "tablet",
+    "image": "https://i.ibb.co.com/gZXFYLGc/paracetamol-tablets-500-mg.jpg",
+    "company": "MediCare Ltd.",
+    "price_per_unit": 5,
+    "discount": 6,
+    "description": "Effective pain reliever and fever reducer commonly used for headaches and flu symptoms."
+  },
+  {
+  
+    "name": "CoughShield Syrup",
+    "category": "syrup",
+    "image": "https://i.ibb.co.com/twHbCqBC/Cough-Shield-Syrup.jpg",
+    "company": "PharmaWell",
+    "price_per_unit": 60,
+    "discount": 10,
+    "description": "Soothing cough syrup that provides relief from throat irritation and dry cough."
+  },
+  {
+ 
+    "name": "Amoxicillin 250mg",
+    "category": "capsule",
+    "image": "https://i.ibb.co.com/Rq4GQYb/amoxicillin.webp",
+    "company": "HealthCure Pharmaceuticals",
+    "price_per_unit": 10,
+    "discount": 0,
+    "description": "Broad-spectrum antibiotic used to treat bacterial infections such as respiratory and ear infections."
+  },
+  {
+   
+    "name": "Insulin RapidPen",
+    "category": "injection",
+    "image": "https://i.ibb.co.com/3y1zfbPt/Insulin-Rapid-Pen.jpg",
+    "company": "GlucoseCare Ltd.",
+    "price_per_unit": 250,
+    "discount": 10,
+    "description": "Fast-acting insulin injection for diabetes management and blood sugar control."
+  },
+  {
+ 
+    "name": "Multivitamin Complex",
+    "category": "tablet",
+    "image": "https://i.ibb.co.com/gbsdgwPg/Multivitamin-Complex.jpg",
+    "company": "VitaLife",
+    "price_per_unit": 12,
+    "discount": 15,
+    "description": "A daily multivitamin supplement that supports energy, immunity, and overall wellness."
+  },
+  {
+
+    "name": "BabyColic Relief",
+    "category": "syrup",
+    "image": "https://i.ibb.co.com/hzz3CkT/Baby-Colic-Relief.jpg",
+    "company": "InfantCare",
+    "price_per_unit": 45,
+    "discount": 0,
+    "description": "Gentle syrup designed to relieve colic, gas, and bloating in infants."
+  },
+  {
+ 
+    "name": "Vitamin D3 Softgel",
+    "category": "capsule",
+    "image": "https://i.ibb.co.com/zWB46vkM/Vitamin-D3-Softgel.jpg",
+    "company": "SunHealth",
+    "price_per_unit": 8,
+    "discount": 0,
+    "description": "Softgel capsules providing essential Vitamin D3 to support bone and immune health."
+  },
+  {
+   
+    "name": "PainAway Injection",
+    "category": "injection",
+    "image": "https://i.ibb.co.com/Mk8cXc35/Pain-Away-Injection.jpg",
+    "company": "ReliefMed",
+    "price_per_unit": 180,
+    "discount": 10,
+    "description": "Injection used to relieve severe muscle or joint pain quickly and effectively."
+  },
+  {
+
+    "name": "SkinSooth Cream",
+    "category": "cream",
+    "image": "https://i.ibb.co.com/gb5w3ZKT/Skin-Sooth-Cream.jpg",
+    "company": "DermaPlus",
+    "price_per_unit": 95,
+    "discount": 0,
+    "description": "Topical cream that treats mild skin irritations, rashes, and eczema."
+  },
+  {
+  
+    "name": "AllergyFree Tablet",
+    "category": "tablet",
+    "image": "https://i.ibb.co.com/NdRf2DNj/Allergy-Free-Tablet.jpg",
+    "company": "PureMeds",
+    "price_per_unit": 15,
+    "discount": 6,
+    "description": "Antihistamine tablet used to relieve allergy symptoms such as sneezing and itchy eyes."
+  },
+  {
+ 
+    "name": "IronBoost Syrup",
+    "category": "syrup",
+    "image": "https://i.ibb.co.com/gKPzSqk/Iron-Boost-Syrup.jpg",
+    "company": "NutraPharm",
+    "price_per_unit": 75,
+    "discount": 0,
+    "description": "Iron supplement syrup that helps combat anemia and boosts energy levels."
+  },
+  {
+  
+    "name": "Glucose Drip 500ml",
+    "category": "others",
+    "image": "https://i.ibb.co.com/v6YN9y3n/Glucose-Drip.jpg",
+    "company": "HydraLife",
+    "price_per_unit": 120,
+    "discount": 10,
+    "description": "Sterile glucose IV solution used for hydration and energy replenishment in patients."
+  }
+]
