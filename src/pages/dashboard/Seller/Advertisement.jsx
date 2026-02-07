@@ -23,7 +23,7 @@ const Advertisement = () => {
       return data;
     },
   });
-  console.log(products);
+  // console.log(products);
   if (isLoading) return <LoadingSpinner />;
   return (
     <div className="mt-12 md:mt-0 w-full max-w-[350px] sm:max-w-xl md:max-w-3xl lg:max-w-5xl mx-auto overflow-hidden">

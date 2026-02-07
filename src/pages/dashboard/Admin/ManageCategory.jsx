@@ -45,7 +45,7 @@ const ManageCategory = () => {
 
   //  Handle Delete
   const handleDelete = async (id) => {
-    console.log(id);
+    // console.log(id);
     try {
       const result = await Swal.fire({
         title: "Are you sure?",

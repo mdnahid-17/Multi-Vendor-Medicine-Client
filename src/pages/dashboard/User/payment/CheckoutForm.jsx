@@ -98,7 +98,7 @@ const CheckoutForm = () => {
         status: "paid",
       };
       delete paymentInfo._id;
-      console.log(paymentInfo);
+      // console.log(paymentInfo);
       try {
         // 2. save payment info in booking collection (db)
         const { data } = await axiosSecure.post("/booking", paymentInfo);

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useForm } from "react-hook-form";
 import { useState } from "react";
 import Swal from "sweetalert2";
@@ -26,7 +27,7 @@ const ManageMedicines = () => {
   });
   const imageFile = watch("imageFile");
   const onSubmit = async (data) => {
-    console.log("Medicine Data:", data);
+    // console.log("Medicine Data:", data);
     try {
       // 1️⃣ Upload image to Cloudinary
       const image_url = await imageUpload(data.imageFile[0]);
@@ -51,7 +52,7 @@ const ManageMedicines = () => {
 
       const res = await axiosSecure.post("/product", productData);
 
-      console.log("Saved:", res.data);
+      // console.log("Saved:", res.data);
       reset();
       setImagePreview(null);
       Swal.fire({

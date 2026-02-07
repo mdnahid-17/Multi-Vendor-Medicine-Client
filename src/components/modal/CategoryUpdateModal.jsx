@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Dialog, DialogPanel, DialogTitle, Transition } from "@headlessui/react";
 import { Fragment } from "react";
 import { useForm } from "react-hook-form";
@@ -16,7 +17,7 @@ const CategoryUpdateModal = ({ catData, setCatData, setIsEditModalOpen, isEditOp
       const updatedCatData = { ...catData, catId: catData._id };
       delete updatedCatData._id;
       const image_url = await imageUpload(image);
-      console.log(image_url);
+      // console.log(image_url);
       setCatData({ ...catData, image: image_url });
     } catch (err) {
       console.log(err);
@@ -29,15 +30,15 @@ const CategoryUpdateModal = ({ catData, setCatData, setIsEditModalOpen, isEditOp
     }
   };
 
+  // eslint-disable-next-line no-unused-vars
   const onSubmit = async (data) => {
-    console.log(data);
-    // const updatedCatData = Object.assign({}, catData);
+    // console.log(data);
     const updatedCatData = { ...catData, catId: catData._id };
     delete updatedCatData._id;
     console.log(updatedCatData);
     try {
       const { data } = await axiosSecure.put(`/categories/update/${catData?._id}`, updatedCatData);
-      console.log(data);
+      // console.log(data);
       refetch();
       setIsEditModalOpen(false);
       closeModal();
@@ -57,7 +58,7 @@ const CategoryUpdateModal = ({ catData, setCatData, setIsEditModalOpen, isEditOp
       });
     }
   };
-  console.log("catData-->", catData);
+  // console.log("catData-->", catData);
   return (
     <div>
       <Transition appear show={isEditOpen} as={Fragment}>

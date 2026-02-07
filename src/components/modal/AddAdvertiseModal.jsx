@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Dialog, DialogPanel, DialogTitle, Transition, TransitionChild } from "@headlessui/react";
 import { Fragment, useState } from "react";
 import { useForm } from "react-hook-form";
@@ -45,7 +46,7 @@ const AddAdvertiseModal = ({ isOpen, closeModal }) => {
 
       const res = await axiosSecure.post("/advertise", advertiseData);
 
-      console.log("Advertisement Data-->", res.data);
+      // console.log("Advertisement Data-->", res.data);
       reset();
       setPreview(null);
       Swal.fire({

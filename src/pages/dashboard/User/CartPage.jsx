@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { axiosSecure } from "../../../hooks/useAxiosSecure";
 import useAuth from "../../../hooks/useAuth";
 import CartItem from "../../../components/dashboard/user/CartItem";
@@ -22,7 +23,7 @@ const CartPage = () => {
   useEffect(() => {
     axiosSecure(`/carts/${user?.email}`).then((res) => dispatch(setCart(res.data)));
   }, [dispatch, user?.email]);
-  console.log(cartItems);
+  // console.log(cartItems);
 
   // All Clear Cart Delete
   const handleClear = async () => {
@@ -41,7 +42,7 @@ const CartPage = () => {
 
       // 2️⃣ Backend sync
       const { data } = await axiosSecure.delete(`/carts/${user.email}`);
-      console.log(data);
+      // console.log(data);
       Swal.fire("Removed!", "Item has been removed from cart.", "success");
     } catch (error) {
       console.error("Delete failed:", error);

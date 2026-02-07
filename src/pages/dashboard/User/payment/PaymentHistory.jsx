@@ -9,6 +9,7 @@ const PaymentHistory = () => {
   const { user } = useAuth();
   const [payments, setPayments] = useState([]);
 
+  // eslint-disable-next-line no-unused-vars
   const { data: paymentsHistory, isLoading } = useQuery({
     queryKey: ["payment-history", user?.email],
     enabled: !!user?.email,
@@ -18,7 +19,7 @@ const PaymentHistory = () => {
       return data;
     },
   });
-  console.log(paymentsHistory);
+  // console.log(paymentsHistory);
   if (isLoading) return <LoadingSpinner />;
 
   return (

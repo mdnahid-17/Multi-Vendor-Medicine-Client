@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState } from "react";
 import BannerAdvertiseSlider from "../../../components/dashboard/admin/BannerAdvertiseSlider";
 import AddToSlidesSlider from "../../../components/dashboard/admin/AddToSlidesSlider";
@@ -18,7 +19,7 @@ const BannerAdvertiseTabs = () => {
       return data;
     },
   });
-  console.log(advertises);
+  // console.log(advertises);
   if (isLoading) return <LoadingSpinner />;
   return (
     <div className="w-full mt-14 lg:mt-0">
